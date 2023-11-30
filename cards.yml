@@ -6,7 +6,7 @@ spring:
   active:
    on-profile: "dev"
    
-accounts:
+cards:
  message: "Welcome to easybank cards related Dev APIS"
  contactDetails:
   name: "vasu - Developer"
