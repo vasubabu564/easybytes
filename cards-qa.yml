@@ -7,7 +7,7 @@ spring:
    on-profile: "qa"
    
 accounts:
- message: "Welcome to easybank cards related QA APIS"
+ message: "Welcome to easybank cards related QAaaaaaaaa APIS"
  contactDetails:
   name: "lucky - QA lead"
   email: "luckyqa@gmail.com"
