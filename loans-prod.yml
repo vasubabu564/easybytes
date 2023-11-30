@@ -7,7 +7,7 @@ spring:
    on-profile: "prod"
    
 loans:
- message: "Welcome to easybank loans related Prod APIS"
+ message: "Welcome to easybank loans related productions APIS"
  contactDetails:
   name: "babu - Teamlead"
   email: "babu@gmail.com"
