@@ -6,7 +6,7 @@ spring:
   active:
    on-profile: "prod"
    
-accounts:
+loans:
  message: "Welcome to easybank loans related Prod APIS"
  contactDetails:
   name: "babu - Teamlead"
