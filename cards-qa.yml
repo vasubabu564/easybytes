@@ -1,0 +1,14 @@
+build:
+ version: "2.O"
+ 
+spring:
+ config:
+  active:
+   on-profile: "qa"
+   
+accounts:
+ message: "Welcome to easybank cards related QA APIS"
+ contactDetails:
+  name: "lucky - QA lead"
+  email: "luckyqa@gmail.com"
+      

@@ -1,0 +1,14 @@
+build:
+ version: "3.O"
+ 
+spring:
+ config:
+  active:
+   on-profile: "dev"
+   
+accounts:
+ message: "Welcome to easybank loans related Dev APIS"
+ contactDetails:
+  name: "vasu - Developer"
+  email: "vasu@gmail.com"
+      

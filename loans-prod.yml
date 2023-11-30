@@ -1,0 +1,14 @@
+build:
+ version: "1.O"
+ 
+spring:
+ config:
+  active:
+   on-profile: "prod"
+   
+accounts:
+ message: "Welcome to easybank loans related Prod APIS"
+ contactDetails:
+  name: "babu - Teamlead"
+  email: "babu@gmail.com"
+      
